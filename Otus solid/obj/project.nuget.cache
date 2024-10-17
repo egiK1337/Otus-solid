@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vIzkXD/32I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stanislav Lukashov\\Desktop\\проги\\обучение\\Otus-solid\\Otus solid\\OtusGeneratorSOLID\\Otus solid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanislav Lukashov\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Stanislav Lukashov\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Stanislav Lukashov\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

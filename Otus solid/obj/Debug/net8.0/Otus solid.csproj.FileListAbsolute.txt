@@ -1,0 +1,45 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\Otus solid.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\Otus solid.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\Otus solid.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\Otus solid.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.csproj.Up2Date
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\refint\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\Otus solid.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\obj\Debug\net8.0\ref\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\bin\Debug\net8.0\Otus solid.dll.config
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\Otus solid.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\Otus solid.dll.config
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\Otus solid.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\Otus solid.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\Otus solid.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.sourcelink.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.csproj.Up2Date
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\refint\Otus solid.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\Otus solid.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\Otus-solid\Otus solid\OtusGeneratorSOLID\obj\Debug\net8.0\ref\Otus solid.dll

@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEF4B18-D618-42FA-8353-C33677821BEB}|UserPart\\UserPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\userpart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEF4B18-D618-42FA-8353-C33677821BEB}|UserPart\\UserPart.csproj|solutionrelative:userpart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\interfaces\\isettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\interfaces\\isettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\interfaces\\imessager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\interfaces\\imessager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\interfaces\\idigitgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\interfaces\\idigitgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\interfaces\\idigitchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\interfaces\\idigitchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\interfaces\\iattemptscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\interfaces\\iattemptscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\messager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\messager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\digitgeneratorliskov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\digitgeneratorliskov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\digitgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\digitgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\digitcheckerlickov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\digitcheckerlickov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\digitchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\digitchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|c:\\users\\stanislav lukashov\\desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\otus-solid\\logicpart\\entities\\attemptscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B368EC-16B9-40BB-A260-4720F49130A5}|LogicPart\\LogicPart.csproj|solutionrelative:logicpart\\entities\\attemptscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\UserPart\\Program.cs",
+              "RelativeDocumentMoniker": "UserPart\\Program.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\UserPart\\Program.cs",
+              "RelativeToolTip": "UserPart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:29:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberGuesser.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\NumberGuesser.cs",
+              "RelativeDocumentMoniker": "LogicPart\\NumberGuesser.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\NumberGuesser.cs",
+              "RelativeToolTip": "LogicPart\\NumberGuesser.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:59.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Controller.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Controller.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Controller.cs",
+              "RelativeToolTip": "LogicPart\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:57.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISettings.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\ISettings.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Interfaces\\ISettings.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\ISettings.cs",
+              "RelativeToolTip": "LogicPart\\Interfaces\\ISettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMessager.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IMessager.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Interfaces\\IMessager.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IMessager.cs",
+              "RelativeToolTip": "LogicPart\\Interfaces\\IMessager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:52.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDigitGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IDigitGenerator.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Interfaces\\IDigitGenerator.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IDigitGenerator.cs",
+              "RelativeToolTip": "LogicPart\\Interfaces\\IDigitGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDigitChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IDigitChecker.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Interfaces\\IDigitChecker.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IDigitChecker.cs",
+              "RelativeToolTip": "LogicPart\\Interfaces\\IDigitChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:46.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\Settings.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\Settings.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\Settings.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:35.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Messager.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\Messager.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\Messager.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\Messager.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\Messager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:30.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\Helper.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\Helper.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\Helper.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:27.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DigitGeneratorLiskov.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitGeneratorLiskov.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\DigitGeneratorLiskov.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitGeneratorLiskov.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\DigitGeneratorLiskov.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:23.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DigitGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitGenerator.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\DigitGenerator.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitGenerator.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\DigitGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:16.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DigitCheckerLickov.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitCheckerLickov.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\DigitCheckerLickov.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitCheckerLickov.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\DigitCheckerLickov.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DigitChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitChecker.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\DigitChecker.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\DigitChecker.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\DigitChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:28:06.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttemptsCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\AttemptsCounter.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Entities\\AttemptsCounter.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Entities\\AttemptsCounter.cs",
+              "RelativeToolTip": "LogicPart\\Entities\\AttemptsCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:27:57.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAttemptsCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IAttemptsCounter.cs",
+              "RelativeDocumentMoniker": "LogicPart\\Interfaces\\IAttemptsCounter.cs",
+              "ToolTip": "C:\\Users\\Stanislav Lukashov\\Desktop\\\u043F\u0440\u043E\u0433\u0438\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Otus-solid\\LogicPart\\Interfaces\\IAttemptsCounter.cs",
+              "RelativeToolTip": "LogicPart\\Interfaces\\IAttemptsCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:27:51.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
